@@ -17,7 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurcanogunc&show_icons=true&locale=en&layout=compact" alt="onurcanogunc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurcanogunc&show_icons=true&locale=en" alt="onurcanogunc" /></p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
